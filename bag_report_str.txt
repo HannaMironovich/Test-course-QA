@@ -9,4 +9,3 @@ Structure bag report
 7. Description.
 8. Steps.
 9. Attachment.
-
